@@ -1,0 +1,20 @@
+# requirements.txt
+
+# Core ML/DL Frameworks
+torch
+torchvision
+
+# Mamba Architecture - requires specific dependencies
+# Install with: pip install mamba-ssm causal-conv1d>=1.1.0
+mamba-ssm
+causal-conv1d>=1.1.0
+
+# Helper libraries
+hest              # For Training Data
+timm              # For DropPath
+h5py              # For loading patch data
+scikit-learn      # For advanced metrics
+numpy
+pandas
+tensorboard       # For logging
+Pillow            # For image processing
