@@ -36,7 +36,7 @@ histomamba/
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/JoyManBoy/HistoMamba.git]
+git clone https://github.com/JoyManBoy/HistoMamba.git
 cd histomamba
 ```
 
