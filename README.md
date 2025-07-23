@@ -36,8 +36,8 @@ histomamba/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/histomamba-deep.git
-cd histomamba-deep
+git clone [https://github.com/JoyManBoy/HistoMamba.git]
+cd histomamba
 ```
 
 ### 2. Install Dependencies
